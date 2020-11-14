@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Mourad. <img alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/Hi.gif?raw=true" width="25"/></h2>
+<h2> Hey there! I'm Mourad.</h2>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
