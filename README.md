@@ -27,7 +27,7 @@
 <p align="">
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/twitter.png"/></a>  
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png"/></a>  
-<!-- &nbsp; <a href="mailto:contact@neo-hypnosia.net" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/50/000000/composing-mail.png"/></a> -->
+&nbsp; <a href="mailto:contact@neo-hypnosia.net" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/material/50/000000/composing-mail.png"/></a>
 </p>
 
 <br><br><br>
