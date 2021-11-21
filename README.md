@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying computer engineering in Montreal, QC.
 - 💼 &nbsp; Full-time student.
 - 👀 &nbsp; I delight in Watching anime, TV-shows and movies, as well as hiking and discover uncharted places covered by nature..
-- 🧘🏻‍♂️ &nbsp; To say is to make people laugh, to do is to silence. 
+- 🧘🏻‍♂️ &nbsp; To say is to make people laugh, to do is to silence them. 
 
 <h3>🛠 Tech Stack</h3>
 
